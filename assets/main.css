@@ -1,0 +1,7 @@
+html {
+  display: flex;
+  align-items: center;
+  font-size: 1.3em;
+  margin: 0 auto;
+  max-width: 350px;
+}
