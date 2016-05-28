@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Kyle Olivo is a software engineer at [ThoughtWorks](http://www.thoughtworks.com) who believes that real artists ship.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm passionate about simplicity and good design. I live in beautiful [San Francisco](https://en.wikipedia.org/wiki/San_Francisco).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Here is my [resume](http://linkedin.com/in/kyleolivo).
+
+![Kyle Olivo](/assets/kyleolivo.jpg)
