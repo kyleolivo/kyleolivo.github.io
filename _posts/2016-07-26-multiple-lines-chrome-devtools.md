@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick Tip: Multiple lines on Chrome DevTools"
+title:  "Multiple lines on Chrome DevTools"
 date:   2016-07-26 10:51:00 -0700
 categories: jekyll github
 ---
