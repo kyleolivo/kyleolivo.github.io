@@ -7,13 +7,29 @@
 
 # Site settings
 title: Kyle Olivo
+header-img: img/home-bg.jpg
 email: kyle@kyleolivo.com
+copyright_name: Kyle Olivo
 description: > # this means to ignore newlines until "baseurl:"
   Wanderer. Lover of learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kyleolivo.com" # the base hostname & protocol for your site
 twitter_username: kyleolivo
 github_username:  kyleolivo
+facebook_username: kyleolivo
+email_username: kyle@kyleolivo.com
+
+google_tracking_id: UA-77425360-1
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
+
+
+
+
