@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Roadmap Transparency"
+title:  "Project roadmap transparency"
 date:   2016-07-29 01:26:00 -0700
 categories: jekyll github
 ---
