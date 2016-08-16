@@ -2,7 +2,8 @@
 layout: post
 title:  "Containers: how do they work?"
 date:   2016-08-15 10:47:00 -0700
-categories: containers devops lxc linux
+category: dev
+tags: containers devops lxc linux
 ---
 
 I've had the opportunity to use a few different container technologies at work, so I thought I'd 
@@ -61,7 +62,7 @@ the container ecosystem though, and that is the contents of the filesystem that 
 
 One of the most common misconceptions about containers is that they are "just like a mini virtual machine". The confusion is understandable. When you are
 inside of a Linux container, it looks just like any other Linux distribution. You see the familiar filesystem layout, devices, and system software that you
-are used to. But the contents of the containers filesystem is not a full operating system, but rather a slimmed-down representation of the target operating system.
+are used to. But the contents of the container's filesystem is not a full operating system, but rather a slimmed-down representation of the target operating system.
 The underlying resources and kernel are provided by the host, and the system software and devices are provided by the image. A host Linux distribution is therefore 
 able to run a container that appears to be an entirely different Linux distribution. The images themselves were created
 by taking a slim version of the target distribution and manipulating it in a way that reduces its size and makes it runnable in a container. It's beyond the scope of 
