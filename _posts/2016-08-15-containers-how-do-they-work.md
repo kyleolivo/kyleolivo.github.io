@@ -41,7 +41,7 @@ tools like [LXC](https://en.wikipedia.org/wiki/LXC) or [docker](https://www.dock
 
 In a traditional Linux system, the 
 [init](https://en.wikipedia.org/wiki/Init) process is started on machine boot, and each subsequent process is 
-[fork-execed](https://en.wikipedia.org/wiki/Fork–exec) from it's parent process (with init at the root of the process tree).
+[fork-execed](https://en.wikipedia.org/wiki/Fork–exec) from its parent process (with init at the root of the process tree).
 Every running process exists in one common environment and is able to access all resources on that machine. Namespaces allow you to 
 group resources together in a common collection. Processes can then be associated with that namespace, thereby giving them a more limited
 view of the resources available on that machine. There are currently six namespaces in the Linux kernel. These can be roughly categorized as: 
@@ -51,7 +51,7 @@ Recall that all processes on a Linux system descend from the init process. One m
 init process under a new namespace. Without the namespacing functionality, it would not be possible to have multiple init processes running 
 on the host. So with namespaces alone, we have the ability to spawn a process tree and manipulate some underlying system resources without
 impacting the host system. If one of the primary benefits of containers is isolation, what prevents a newly spawned container from 
-overwhelming the hosts resources? Such as consuming too much disk, memory, or processing power? This is where cgroups come in.
+overwhelming the host's resources? Such as consuming too much disk, memory, or processing power? This is where cgroups come in.
 
 Cgroups (or "control groups") are responsible for placing limits and recording usage of system resources. This functionality became available
 in the Linux kernel in 2008. With cgroups, we can limit CPU usage, memory, disk and much more. It's beyond the scope of this overview to describe 
@@ -69,4 +69,4 @@ by taking a slim version of the target distribution and manipulating it in a way
 this article to describe exactly how these images are built, but you can see how the LXC images are created by looking at the 
 [LXC github repository](https://github.com/lxc/lxc/tree/master/templates). Namespaces, cgroups, and images thus provide the three major building blocks that make
 containers work. The last remaining technology is the set of user tools that allow you to seamlessly manipulate these concepts and create your own environments inside
-of a container. In the next post, I'll go into some detail on how you can use LXC to create your own environments.
+of a container. In the next post, I'll go into some detail on how you can use LXC to accomplish this.
