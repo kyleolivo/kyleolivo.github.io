@@ -2,7 +2,8 @@
 layout: post
 title:  "Resources for learning ReactJS"
 date:   2016-08-12 22:40:00 -0700
-categories: jekyll github
+category: dev
+tags: reactjs
 ---
 
 Nitin Punjabi over at [patternhatch](http://patternhatch.com) has written some 

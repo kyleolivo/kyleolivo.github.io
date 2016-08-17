@@ -2,7 +2,8 @@
 layout: post
 title:  "Project roadmap transparency"
 date:   2016-07-29 01:26:00 -0700
-categories: jekyll github
+category: dev
+tags: product
 ---
 
 In addition to producing a wonderful product, the folks over at [Cloudcraft](https://cloudcraft.co "Cloudcraft")
