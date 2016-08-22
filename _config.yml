@@ -22,7 +22,7 @@ email_username: kyle@kyleolivo.com
 google_tracking_id: UA-77425360-1
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 permalink: pretty
 paginate: 5
