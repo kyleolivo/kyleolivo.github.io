@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Containers: how do they work?"
+title:  "How Linux containers work"
 date:   2016-08-15 10:47:00 -0700
 category: dev
 tags: containers devops lxc linux
