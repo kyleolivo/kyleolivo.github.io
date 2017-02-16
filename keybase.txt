@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/kyleolivo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kyleolivo.com
+  * I am kyleolivo (https://keybase.io/kyleolivo) on keybase.
+  * I have a public key with fingerprint 1FB7 A8D8 A699 3F01 64FF  A597 A76E 5B92 A425 CC9F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01209431ce866fb485287d42542b361bd6e6ab47496086611d2b4795e9fce44754640a",
+            "fingerprint": "1fb7a8d8a6993f0164ffa597a76e5b92a425cc9f",
+            "host": "keybase.io",
+            "key_id": "a76e5b92a425cc9f",
+            "kid": "01017e9b5573be2679b8fea3fc07de4bcb30d7123d8c24eb077716152f542ed7a6120a",
+            "uid": "ca69463a368f3a7673b1246179bab919",
+            "username": "kyleolivo"
+        },
+        "service": {
+            "hostname": "kyleolivo.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487214090,
+    "expire_in": 157680000,
+    "prev": "5a200b6f3b7515013c6902bb6b4cddd004cd63e79dd3418dceb62af3966eb97d",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNuAnicbZJ7TBRHHMePltr2cgIGCoIB7UZQee57biGWkEtVgiXSqDzNubM7CyvH
+7XEPnj0KJaLFFFTog6ptLQKljVL7klLbBkVDfVUMChppQRAqfUhIDU1Pk86S+k/T
++Wcyv/l+P7/vbzIDS580GP267PkHj0Vfet/vYn+bx5DTEWqsJqAmVxLJ1UQxWtyQ
+TUYut7VYlYlkgqRoUmAZSkJmnlcga+ZoM5BZmmNpyPAUlHnEi5AFrMCTWEFRMo1P
+AocERUIsCziWZ0mRiCcU1V6InA6nandjLKVAIJpls8gLAqOQFM8qisgJQAQ84qBA
+i7iDJAkKNhZpLt2Bw0HRhRJVDdfwwboY73/0j3OTFEAC5DjAQETzQIBmBYmMIpFA
+RiyUIEPKgKIZ2SzRLIIkAIDiKY5W8GRIBiKPB9dzexZxEg7K8ozI8GaFwU0xlKJZ
+nsJYEQqUoAtdyGkXS5CetdKGNJtaphHeeAKXy1QJ6S+rj/JfSaKklWC3w6m5NUmz
+4asit9uRrDvdlQ5dWo6g9V+IFap2GT8kNpQhp0vV7EQyhZWSW9WpFGsGNMWSAhlP
+oAqH6kRWVVdwgDeTeOltUBlGciJNkpBXGAg4iiMpRuIFkoaQh6wkyzJJ4o1nEBBk
+mWEpsywhyNOiwgg8j6AAZEIfq9SuYTbAOcVCzHSphXbR7XEiwnumv8Df4Gc0LHnq
+Cf2HGYzPBj3+d6/3BT4KiTvlqbP8mBe65peGwF0lcLhqYV/N6Oo4JadgJs34Spq7
+sTwkLvSbUO/djPSpL1e+7TxxNv9E/vb974yWZq+LVq82xxwYvV8TUEoWWX6PuNx4
+fO2fEenDWSdtQzfPlewA0z/FJN296A0JXgJMxbbkrdWlpydr8267wpWwzzeCkZC4
+joSxOzVF7oCKzP7D3M1qte1h7pWcpBeF56aWt/QfHhjjDDNtY6d8TwfduNc9vQIN
+jadYFtb7WysOhg9HbAuqzZ180Hx707L4rvf+Ns23Xt2e6do9lFvf8FHbrftBR1/r
+a8+L8d4r+rijd8KTPZq4svXI8fzy5p2/+T/IPZv23d66nnnft+mzk/GOobC0VEtT
+77uxsb0S1/Fyz5WY2h9aLw1sXVVQNpNqupzlHM++NrDWG7vrfFlw5IadvnbT9dQV
+lj3isqWbXtohHdm8POtWRNzpMHdXUk9AZKLvec/u5jODbS1TE3MnFwL3a7MJJCC/
+Hzj/QW3nYHjRqybn+IU/5gIrjFWDXZ0zhwiL5dPW+OGEsYwNPbUNGdbOFjrl3MBX
+HeEB3WFv9tkMC+t69uR+Me9cM1tvqvN9OBeV8vWGfcFvTWddbyo/mil2eWa3jBxL
+Khj59VD3Zt/6bRuDXmiKirK2T3wWaTzwxpY7F8Ts9PqxG3uj6U+qolc/8j5cdc3W
+0fjM0M8RfxXXMGH/AOd2u8k=
+=YXoz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kyleolivo
+
+==================================================================
