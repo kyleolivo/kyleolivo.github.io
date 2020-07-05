@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deep Learning with Fast AI: Lesson 1"
-date:   2020-07-02 06:00:00 -0700
+date:   2020-07-05 14:53:00 -0700
 category: dev
 tags: deeplearning fastai ml
 ---
