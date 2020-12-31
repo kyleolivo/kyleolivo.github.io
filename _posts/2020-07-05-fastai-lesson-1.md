@@ -62,4 +62,4 @@ configuration.
 So to recap, in lesson one we trained an image classifier to identify different dog and cat breeds to roughly 95% accuracy. We
 know we are somehow doing that with a convolutional neural network, which consists of layers, and that we can tune things
 like batch sizes, epochs, and learning rates, but we don't know much about what these things mean. But even without knowing, 
-it should be possible to use this framework to classify images of other types. Neat!
+it should be possible to use this framework to classify images of other types.
