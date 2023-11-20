@@ -1,2 +1,2 @@
 # kyleolivo.github.io
-My public website
+A personal landing page.
