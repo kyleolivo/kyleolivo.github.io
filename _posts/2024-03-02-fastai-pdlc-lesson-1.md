@@ -1,5 +1,12 @@
 ---
 title: "FastAI: Philosophy and The First Model"
+excerpt_separator: "<!--more-->"
+categories:
+  - AI
+  - FastAI
+tags:
+  - AI
+  - FastAI
 ---
 
 This post is about [Practical Deep Learning for Coders](https://course.fast.ai/Lessons/lesson1.html).
