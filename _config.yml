@@ -32,7 +32,7 @@ plugins:
 author:
   name   : "Kyle Olivo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Wanderer. Lover of learning."
+  bio    : "Let's build!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
