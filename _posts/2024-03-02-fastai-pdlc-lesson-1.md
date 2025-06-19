@@ -1,6 +1,5 @@
 ---
 title: "FastAI: Philosophy and The First Model"
-date: [2024-03-02]
 ---
 
 This post is about [Practical Deep Learning for Coders](https://course.fast.ai/Lessons/lesson1.html).
