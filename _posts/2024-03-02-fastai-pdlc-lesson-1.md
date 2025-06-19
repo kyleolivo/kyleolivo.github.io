@@ -1,22 +1,14 @@
 ---
 title: "FastAI: Philosophy and The First Model"
-excerpt_separator: "<!--more-->"
-categories:
-  - AI
-  - FastAI
-tags:
-  - AI
-  - FastAI
+date: [2024-03-02]
 ---
 
-This post is about [Practical Deep Learning for Coders Lesson 1](https://course.fast.ai/Lessons/lesson1.html).
+This post is about [Practical Deep Learning for Coders](https://course.fast.ai/Lessons/lesson1.html).
 
 I'm working my way through the course [Practical Deep Learning for Coders](https://course.fast.ai), which uses FastAI, 
-a library for quickly iterating on Deep Learning related problems. This will be the first in a series of posts as I work
-my way through this course, the [related book](https://github.com/fastai/fastbook), and ultimately some projects that
-use the library. You may be wondering why I'm focusing on this material rather than the latest and greatest advancements
-in this field, like LLMs. Ultimately, I see my knowledge in the AI/ML space as a gap that I need to fill, and gaining
-a broad exposure to a few different areas will be beneficial. Several years ago, Andrew Ng claimed that 
+a library for quickly iterating on Deep Learning related problems. You may be wondering why I'm focusing on this material rather 
+than the latest and greatest advancements in this field, like LLMs. Ultimately, I see my knowledge in the AI/ML space as a gap that 
+I need to fill, and gaining a broad exposure to a few different areas will be beneficial. Several years ago, Andrew Ng claimed that 
 [AI is the new electricity](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity), and I believe
 he's right. And while the best time to have jumped into this area would have been years ago, the next best time is now.
 As for this course over LLMs or some other resource, we've seen time and again that once the hype fades on any particular 
