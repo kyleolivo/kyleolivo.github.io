@@ -34,9 +34,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Let's build!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.kyleolivo.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "kyle@[thiswebsite]"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/kyleolivo"
