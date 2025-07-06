@@ -1,5 +1,5 @@
 ---
-title: "Claude Code Best Practices"
+title: "Quote: Claude Code Best Practices"
 excerpt_separator: "<!--more-->"
 ---
 
