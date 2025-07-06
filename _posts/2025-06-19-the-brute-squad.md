@@ -1,5 +1,5 @@
 ---
-title: "The Brute Squad"
+title: "Quote: The Brute Squad"
 excerpt_separator: "<!--more-->"
 ---
 
