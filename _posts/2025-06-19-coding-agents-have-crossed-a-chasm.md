@@ -1,5 +1,5 @@
 ---
-title: "Coding agents have crossed a chasm"
+title: "Quote: Coding agents have crossed a chasm"
 excerpt_separator: "<!--more-->"
 ---
 
