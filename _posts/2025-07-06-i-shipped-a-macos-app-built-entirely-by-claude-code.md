@@ -1,5 +1,5 @@
 ---
-title: "Quote: I Shipped a macOS App Built Entirely by Claude Code"
+title: "🔗 I Shipped a macOS App Built Entirely by Claude Code"
 excerpt_separator: "<!--more-->"
 tags:
   - quotes
