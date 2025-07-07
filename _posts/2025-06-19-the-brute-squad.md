@@ -1,6 +1,8 @@
 ---
 title: "Quote: The Brute Squad"
 excerpt_separator: "<!--more-->"
+tags:
+  - quotes
 ---
 
 > This turned out to be the biggest surprise of the new world: agentic coding is addictive. You will hear it more and more often, because it bewitches people once they've got the hang of it. Agentic coding is like a slot machine, where each of your requests is a pull of the lever with potentially infinite upside or downside. On any given query, you don't know if it's going to one-shot everything you wished for, or delete your repo and send weenie pics to your grandma.

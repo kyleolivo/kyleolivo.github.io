@@ -1,9 +1,6 @@
 ---
 title: "Shipping an iOS App with Claude Code"
 excerpt_separator: "<!--more-->"
-categories:
-  - ai-development
-  - ios-development
 tags:
   - ai-development
   - ios-development

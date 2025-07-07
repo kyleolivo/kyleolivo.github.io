@@ -1,6 +1,8 @@
 ---
 title: "Quote: I Shipped a macOS App Built Entirely by Claude Code"
 excerpt_separator: "<!--more-->"
+tags:
+  - quotes
 ---
 
 I was just about to publish a writeup like this for my iOS app, [Fog & Fern](https://fogandfern.app), but he beat me to it! It's a well-written article and I agree with all the points. It sounds like he is a seasoned iOS/Mac developer, which will provide an interesting contrast to my amateur attempt.
