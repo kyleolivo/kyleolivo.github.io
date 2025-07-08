@@ -115,7 +115,7 @@ The LLM tools significantly reduced friction—especially during research, debug
 
 ## Final Thoughts on AI-Augmented Development
 
-These tools won’t replace experienced engineers anytime soon. They *will* drastically augment productivity, especially in early-stage prototyping and supportive tool development (ie, scripts, one-off applications, etc). There’s still critical value in understanding:
+These tools won’t replace experienced engineers. They *will* drastically augment productivity, especially in early-stage prototyping and supportive tool development (ie, scripts, one-off applications, etc). There’s still critical value in understanding:
 
 - Architecture tradeoffs  
 - Debugging edge cases  
