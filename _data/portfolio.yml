@@ -1,0 +1,48 @@
+projects:
+  - title: "Fog & Fern"
+    short_description: "Explore every park in San Francisco—one step at a time"
+    long_description: "Fog & Fern is your companion for discovering the green spaces that make San Francisco special. Whether you're looking for a weekend walk, a quiet pocket park, or aiming to visit every park in town, this app makes exploration simple and rewarding. The app features a complete map of San Francisco's public parks, visit tracking, one-tap directions, and iCloud sync to keep your progress safe and private. Built as an experiment in AI-assisted development, this iOS app demonstrates how modern AI tools can accelerate solo development while creating a genuinely useful product for park enthusiasts."
+    completion_date: "2025-07-07"
+    image: "/assets/images/portfolio/fogandfern.png"
+    category: "Mobile App"
+    technologies: ["Swift", "SwiftUI", "MapKit", "Core Data", "iCloud"]
+    links:
+      - label: "App Store"
+        url: "https://apps.apple.com/us/app/fog-fern/id6747925086"
+        icon: "fab fa-app-store"
+      - label: "Project Site"
+        url: "https://fogandfern.app"
+        icon: "fas fa-external-link-alt"
+      - label: "GitHub"
+        url: "https://github.com/kyleolivo/fogandfern"
+        icon: "fab fa-github"
+
+  - title: "PostPique"
+    short_description: "Share meaningful quotes from articles with your thoughts—directly to GitHub Pages"
+    long_description: "PostPique makes it simple to capture and share interesting quotes from web articles along with your personal reflections. Connect your GitHub Pages repository and turn your reading into a curated collection of insights. The app works seamlessly with iOS and macOS share sheets, allowing users to quote any text from web articles, add personal thoughts and commentary, and publish directly to their GitHub Pages site with automatic source attribution and linking. This project showcases the power of integrating web content with static site generation for content creators."
+    completion_date: "2025-07-30"
+    image: "/assets/images/portfolio/postpique.png"
+    category: "Mobile/Desktop App"
+    technologies: ["Swift", "SwiftUI", "GitHub API", "Share Extension"]
+    links:
+      - label: "Project Site"
+        url: "http://postpique.app"
+        icon: "fas fa-external-link-alt"
+      - label: "GitHub"
+        url: "https://github.com/kyleolivo/PostPique"
+        icon: "fab fa-github"
+
+  - title: "DrawScale"
+    short_description: "An educational utility that provides detailed feedback on system designs"
+    long_description: "DrawScale is a specialized educational utility designed to help developers and architects improve their system design skills. The application analyzes system design visualizations and provides comprehensive feedback on areas for consideration and exploration. By offering detailed insights and suggestions, DrawScale helps users identify potential improvements, scalability concerns, and architectural patterns that could enhance their designs. This tool bridges the gap between theoretical system design knowledge and practical implementation, making it an invaluable resource for anyone looking to strengthen their system architecture skills."
+    completion_date: "2025-07-20"
+    image: "/assets/images/portfolio/drawscale.png"
+    category: "Web App"
+    technologies: ["TypeScript", "React", "Supabase", "OpenAI"]
+    links:
+      - label: "Project Site"
+        url: "https://www.drawscale.app"
+        icon: "fas fa-external-link-alt"
+      - label: "GitHub"
+        url: "https://github.com/kyleolivo/drawscale"
+        icon: "fab fa-github"
