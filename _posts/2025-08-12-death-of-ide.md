@@ -1,5 +1,5 @@
 ---
-title: "🔗 YouTube"
+title: "🔗 The Death of the IDE"
 date: 2025-08-12T23:33:11Z
 excerpt_separator: "<!--more-->"
 tags:
