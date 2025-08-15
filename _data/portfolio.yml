@@ -25,6 +25,9 @@ projects:
     category: "Mobile/Desktop App"
     technologies: ["Swift", "SwiftUI", "GitHub API", "Share Extension"]
     links:
+      - label: "App Store"
+        url: "https://apps.apple.com/us/app/postpique/id6749191597?mt=12"
+        icon: "fab fa-app-store"
       - label: "Project Site"
         url: "http://postpique.app"
         icon: "fas fa-external-link-alt"
